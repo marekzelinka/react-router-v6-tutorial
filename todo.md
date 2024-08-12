@@ -1,0 +1,4 @@
+- [ ] Enable [future flags](https://reactrouter.com/en/main/upgrading/future)
+- [ ] Refactor styles to tailwind
+- [ ] Support dark mode
+- [ ] Move router config to its own file
