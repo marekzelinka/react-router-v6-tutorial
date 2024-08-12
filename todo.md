@@ -5,3 +5,4 @@
 - [ ] Move Root route to root
 - [ ] Fix prop type errors
 - [ ] Fix vite export eslint errors
+- [ ] Use uppercase Form method, e.g. POST
