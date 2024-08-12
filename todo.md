@@ -8,3 +8,4 @@
 - [ ] Use uppercase Form method, e.g. POST
 - [ ] Add loader to edit contact route
 - [ ] Move contact delete function to contact route
+- [ ] Use spin delay for search spinner
