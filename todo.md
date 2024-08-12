@@ -3,3 +3,4 @@
 - [ ] Support dark mode
 - [ ] Move router config to its own file
 - [ ] Move Root route to root
+- [ ] Fix prop type errors
